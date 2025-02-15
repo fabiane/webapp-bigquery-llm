@@ -52,7 +52,7 @@ npm install
 3. Configure as variáveis de ambiente:
    - Renomeie `.env.example` para `.env`
    - Adicione sua chave da API da OpenAI
-   - Configure as credenciais do BigQuery, aqui usei uma service account e gerei um json como credencial
+   - Configure as credenciais do BigQuery no arquivo server.js, aqui usei uma service account e gerei um json como credencial
 
 4. Inicie o servidor de desenvolvimento:
 ```bash
